@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Kids Poems</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kids Poems</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="exit">Exit</string>
+
+    <string name="t1">Humpty Dumpty</string>
+    <string name="t2">Baa, Baa, Black Sheep</string>
+    <string name="t3">Twinkle, Twinkle, Little Star</string>
+    <string name="t4">Rain Rain Go Away</string>
+    <string name="t5">Five Little Monkeys</string>
+    <string name="t6">Mary Had a Little Lamb</string>
+    <string name="t7">Itsy Bitsy Spider</string>
+    <string name="t8">Hickory Dickory Dock</string>
+    <string name="t9">I Love Little Pussy</string>
+    <string name="t10">Johny Johny Yes Papa</string>
+
+    <string name="p1">"Humpty Dumpty sat on a wall"\n\n
+Humpty Dumpty sat on a wall,\n
+Humpty Dumpty had a great fall;\n
+All the king\'s horses and all the king\'s men\n
+Couldn\'t put Humpty together again.\n
+    </string>
+    <string name="p2">"Baa, Baa, Black Sheep"\n\n
+Baa, baa, black sheep,\n
+Have you any wool?\n
+Yes, sir, yes, sir,\n
+Three bags full;\n
+One for the master,\n
+And one for the dame,\n
+And one for the little boy\n
+Who lives down the lane.\n</string>
+    <string name="p3">"Twinkle, Twinkle, Little Star"\n\n
+Twinkle, twinkle, little star,\n
+How I wonder what you are!\n
+Up above the world so high,\n
+Like a diamond in the sky.\n\n
+
+When the blazing sun is gone,\n
+When he nothing shines upon,\n
+Then you show your little light,\n
+Twinkle, twinkle, all the night.\n\n
+
+Then the traveler in the dark\n
+Thanks you for your tiny spark,\n
+How could he see where to go,\n
+If you did not twinkle so?\n\n
+
+In the dark blue sky you keep,\n
+Often through my curtains peep\n
+For you never shut your eye,\n
+Till the sun is in the sky.\n\n
+
+As your bright and tiny spark\n
+Lights the traveler in the dark,\n
+Though I know not what you are,\n
+Twinkle, twinkle, little star.\n
+    </string>
+    <string name="p4">"Rain Rain Go Away"\n\n
+Rain, rain, go away\n
+Come again another day\n
+Little Johny wants to play.\n
+Rain, rain, go away.\n\n
+
+Rain, rain, go away\n
+Come again another day\n
+Little Piggy wants to play.\n
+Rain, rain, go away.\n\n
+
+Rain, rain, go away\n
+Come again another day\n
+Little Mary wants to play.\n
+Rain, rain, go away.\n\n
+
+Rain, rain, go away\n
+Come again another day\n
+Little Teddy wants to play.\n
+Rain, rain, go away.\n\n
+
+Rain, rain, go away\n
+Come again another day\n
+Everybody wants to play.\n
+Rain, rain, go away.\n</string>
+    <string name="p5">"Five Little Monkeys"\n\n
+Five little monkeys jumping on the bed,\n
+One fell down and bumped his head,\n
+Mama called the doctor and the doctor said,\n
+No more monkeys jumping on the bed!\n\n
+
+Four little monkeys jumping on the bed,\n
+One fell down and bumped his head,\n
+Mama called the doctor and the doctor said,\n
+No more monkeys jumping on the bed!\n\n
+
+Three little monkeys jumping on the bed,\n
+One fell down and bumped her head,\n
+Mama called the doctor and the doctor said,\n
+No more monkeys jumping on the bed!\n\n
+
+Two little monkeys jumping on the bed,\n
+One fell down and bumped his head,\n
+Mama called the doctor and the doctor said,\n
+No more monkeys jumping on the bed!\n\n
+
+One little monkey jumping on the bed,\n
+She fell down and bumped her head,\n
+Mama called the doctor and the doctor said,\n
+Put those monkeys back to bed!\n
+    </string>
+    <string name="p6">"Mary Had a Little Lamb"\n\n
+Mary had a little lamb,\n
+whose fleece was white as snow.\n\n
+
+And everywhere that Mary went,\n
+the lamb was sure to go.\n\n
+
+It followed her to school one day\n
+which was against the rules.\n\n
+
+It made the children laugh and play,\n
+to see a lamb at school.\n\n
+
+And so the teacher turned it out,\n
+but still it lingered near,\n\n
+
+And waited patiently about,\n
+till Mary did appear.\n\n
+
+“Why does the lamb love Mary so?”\n
+the eager children cry.\n\n
+
+“Why, Mary loves the lamb, you know.”\n
+the teacher did reply\n</string>
+    <string name="p7">"Itsy Bitsy Spider"\n\n
+The itsy bitsy spider crawled up the water spout.\n
+Down came the rain, and washed the spider out.\n
+Out came the sun, and dried up all the rain,\n
+and the itsy bitsy spider went up the spout again\n\n
+    </string>
+    <string name="p8">"Hickory Dickory Dock"\n\n
+Hickory, dickory, dock,\n
+The mouse ran up the clock.\n
+The clock struck one,\n
+The mouse ran down,\n
+Hickory, dickory, dock\n
+    </string>
+    <string name="p9">"I Love Little Pussy"\n\n
+I love little pussy,\n
+Her coat is so warm,\n
+And if I don\'t hurt her,\n
+She\'ll do me no harm.\n
+So I\'ll not pull her tail,\n
+Nor drive her away,\n
+But pussy and I,\n
+Very gently will play\n
+    </string>
+    <string name="p10">"Johny Johny Yes Papa"\n\n
+Johny, Johny,\n
+Yes papa?\n
+Eating sugar?\n
+No papa.\n
+Telling lies?\n
+No papa.\n
+Open your mouth\n
+Ha ha ha!\n
+    </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About Apps</string>
+    <string name="menu_slideshow">About Me</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="326dp"
+        android:src="@drawable/robin" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/text_slideshow"
+        android:layout_height="wrap_content"
+        android:text="Name : Ikhtiar Uddin Ahmmed Rabin"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="ID : 171-15-1389"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Phone Number : +880 1762-551669"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Email : ikhtiar15-1389@diu.edu.bd"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="University : Daffodil International University"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="18dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Department : CSE"
+        android:textColor="#00b33c"
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+</LinearLayout>
